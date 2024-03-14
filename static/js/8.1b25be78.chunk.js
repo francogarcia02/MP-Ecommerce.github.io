@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapp123=self.webpackChunkapp123||[]).push([[8],{8:(a,s,e)=>{e.r(s),e.d(s,{default:()=>c});var r=e(184);const c=a=>{let{ruta:s}=a;return(0,r.jsx)("img",{className:"card__img",src:s})}}}]);
+//# sourceMappingURL=8.1b25be78.chunk.js.map
